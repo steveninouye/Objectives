@@ -18,6 +18,8 @@
   "homepage": "https://github.com/steveninouye/Objectives#readme",
   "dependencies": {
     "file-system": "^2.2.2",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
   }
 }
